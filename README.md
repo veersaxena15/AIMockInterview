@@ -49,6 +49,6 @@ AI Mock Interview is an Android application built using Java and Firebase that h
 
 ## Authors
 
-- **Veer Saxena** - Team Lead & Android Developer
-- **Varun Sharma** - Android Developer
-- **Ujjyant Bajpai** - Developer
+- @veersaxena15
+- @varunsharma0208
+- @UJJYANTBAJPAI
