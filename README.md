@@ -47,8 +47,8 @@ AI Mock Interview is an Android application built using Java and Firebase that h
 * Detailed analytics dashboard
 * Mock HR interview simulation
 
-## Author
+## Authors
 
-Veer Saxena
-Varun Sharma
-Ujjyant Bajpai
+- **Veer Saxena** - Team Lead & Android Developer
+- **Varun Sharma** - Android Developer
+- **Ujjyant Bajpai** - Developer
