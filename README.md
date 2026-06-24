@@ -1,6 +1,6 @@
-# AI Mock Interview
+# InterviewPro
 
-AI Mock Interview is an Android application built using Java and Firebase that helps users prepare for job interviews through AI-generated questions and performance evaluation.
+InterviewPro is an Android application built using Java and Firebase that helps users prepare for job interviews through AI-generated questions and performance evaluation.
 
 ## Features
 
